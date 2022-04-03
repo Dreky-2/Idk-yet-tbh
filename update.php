@@ -1,1 +1,1 @@
-{"version":"2.3","filename":"lipp22.png"}
+{"version":"2.3","filename":"lipp23.png"}
